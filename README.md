@@ -1,3 +1,7 @@
-# 2D_Breakout_Game
-Improving my JavaScript skill with this game.
-This is a game from MDN. This game is not a property of mine. I just use this codes to improve my skills. 
+# <=- Project's Description -=>
+ -> This is a game from Mozilla Developer Network(MDN).
+ -> They marvelously created this game.
+ -> You can create the game as you are learning.
+ 
+# <=- Project's Goals -=>
+ -> To improve my coding skill.
